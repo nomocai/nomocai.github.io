@@ -1,0 +1,2 @@
+# nomocai.github.io
+blog
